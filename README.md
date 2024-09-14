@@ -1,4 +1,7 @@
 # Tetris
+[![GitHub](https://img.shields.io/github/license/lewishazell/tetris)](https://github.com/lewishazell/tetris/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/lewishazell/tetris)](https://github.com/lewishazell/tetris/issues)
+[![GitHub Repo stars](https://img.shields.io/github/stars/lewishazell/tetris?style=social)](https://github.com/lewishazell/tetris/stargazers)
 
 ![Tetris](/assets/images/game.png)
 
