@@ -52,7 +52,7 @@
               </goals>
               <configuration>
                 <target>
-                  <copy file="music.wav" tofile="${basedir}/target/music.wav"/>
+                  <copy file="assets/audio/music.wav" tofile="${basedir}/target/music.wav"/>
                 </target>
               </configuration>
           </execution>
